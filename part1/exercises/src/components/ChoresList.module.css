@@ -11,4 +11,16 @@
    font-size: 50px;
    text-decoration: underline;
    text-align: left;
+   background-color: rgb(157, 196, 250);
+   padding: 15px;
+   margin-right: 700px;
+  
+
+}
+.chores {
+   border-color: black;
+   border-style: solid;
+   border-radius: 20px;
+   margin-right: 950px;
+
 }
