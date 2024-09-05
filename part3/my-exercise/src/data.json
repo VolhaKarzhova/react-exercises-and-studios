@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "canvas": "14 count Aida",
+            "manufacturer": "Dimensions",
+            "photoUrl": "https://m.media-amazon.com/images/I/81c-4MWhMfL._AC_UF894,1000_QL80_.jpg",
+            "name": "Garden Shed Snowman"
+        },
+        {
+            "canvas": "18 count Aida",
+            "manufacturer": "Dimensions",
+            "photoUrl": "https://i5.walmartimages.com/seo/Dimensions-Oriental-Splendor-Counted-Cross-Stitch-Kit_b5d015ea-91cc-4472-aaac-89da5bc2b184.589f71d60db0ffdec6a337354c1d015d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+            "name": "Oriental Splendor"
+        },
+        {
+            "canvas": "16 count Aida",
+            "manufacturer": "Dimensions",
+            "photoUrl": "https://target.scene7.com/is/image/Target/GUEST_cc77b3f7-2f13-42e2-869b-913546948853?wid=488&hei=488&fmt=pjpeg",
+            "name": "A Treasured Time"
+        },
+        {
+            "canvas": "16 count Aida",
+            "manufacturer": "Dimensions",
+            "photoUrl": "https://static.platform.michaels.com/2c-prd/2932704166601.jpeg?fit=inside|1280:1280",
+            "name": "Holiday Village"
+        },
+        {
+            "canvas": "14 count Aida",
+            "manufacturer": "Janlynn",
+            "photoUrl": "https://a.media-amazon.com/images/I/81zsRcu6r3L._AC_SL1109_.jpg",
+            "name": "Victorian Sink"
+        }
+    ]
+}
