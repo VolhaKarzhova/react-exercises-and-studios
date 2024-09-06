@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://erickim.net/";
+   let authorPhoto = "https://images.squarespace-cdn.com/content/v1/55601ed9e4b0ef2fa3b5042b/5c9ae243-a746-43f3-9c5f-6576c4628638/eric-kim-nyt-cooking.png?format=1000w";
+   let authorName = "Eric Kim";
 
    return (
       <div>
@@ -17,7 +17,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["strawberries", "chamomile tea", "sugar", "flour", "eggs"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -36,8 +36,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>Chamomile Tea Cake with Strawberry Icing</h1>
+            <p>The perfect cake recipe for afternoon tea. Make sure to host your gathering outside so everyone can get lots of springtime sunshine!</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -49,7 +49,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://static01.nyt.com/images/2022/04/17/dining/17Mag-Eat1/17Mag-Eat1-threeByTwoMediumAt2X.jpg?width=1280&quality=75&auto=webp" alt="Cake picture" className="imageUpdates"/>
    );
 }
 
